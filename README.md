@@ -5,9 +5,9 @@ This repository contains the analysis of the TV show "Legal High." The primary o
 
 ## Contents
 - The repository includes the following files:
-  - `data.csv`: The dataset containing relevant information for the analysis.
+  - `datafile.csv`: The dataset containing relevant information for the analysis.
   - `analysis.ipynb`: Jupyter Notebook file that presents the analysis, data processing, and visualizations.
-  - `findings.pdf`: A document summarizing the key findings and insights from the analysis.
+  - `1 - Legal High Ratings per Episode.pdf`: A document summarizing the key findings and insights from the analysis.
 
 ## Data Collection
 ### Source
